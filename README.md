@@ -9,4 +9,6 @@
 
 <br><br>
 - :school: yo soy estudiante de `Junior` [ietdh medical duarte](https://www.facebook.com/share/16BNqaSoo2/).
-- :trophy: 2x `ACPC` Finalist.
+- :technologist: le tengo un amor/odio a la programacion como una relacion duradera
+- :computer: empeze en este mundo porque me encantan los videosjuegos mi sueño es crear mi propio juego independiente.
+-🐕 me encantan los animales en especiales los perros grandes
