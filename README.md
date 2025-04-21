@@ -8,3 +8,5 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+- :school: yo soy estudiante de `Junior` [ietdh medical duarte](https://www.facebook.com/share/16BNqaSoo2/).
+- :trophy: 2x `ACPC` Finalist.
