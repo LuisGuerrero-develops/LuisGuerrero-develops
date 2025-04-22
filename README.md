@@ -13,3 +13,12 @@
 - :technologist: le tengo un amor/odio a la programacion como una relacion duradera
 - :computer: empeze en este mundo porque me encantan los videosjuegos mi sueño es crear mi propio juego independiente.
 - 🐕 me encantan los animales en especiales los perros grandes
+
+
+ 💻 **Lo que estoy aprendiendo:**
+
+| 🐍 **Lenguajes:** | Python, JavaScript |
+|------------------|--------------------|
+| 🔧 **Herramientas:** | Git, GitHub |
+| 🧠 **Lógica:** | resolución de problemas |
+| ✏️ **Buenas prácticas:** | Código limpio y control de versiones |
