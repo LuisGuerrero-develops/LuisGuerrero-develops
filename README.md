@@ -17,7 +17,7 @@
 
  💻 **Lo que estoy aprendiendo:**
 
-| 🐍 **Lenguajes:** | Python, JavaScript |
+| 👨‍💻 **Lenguajes:**| Python, JavaScript |
 |------------------|--------------------|
 | 🔧 **Herramientas:** | Git, GitHub |
 | 🧠 **Lógica:** | resolución de problemas |
