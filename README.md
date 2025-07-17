@@ -12,9 +12,8 @@
 - :school: yo soy `Junior` estudiante de  [ietdh medical duarte](https://www.facebook.com/share/16BNqaSoo2/).
 - :technologist: le tengo un amor/odio a la programacion como una relacion duradera
 - :computer: Empecé en este mundo porque me encantan los videosjuegos mi sueño es crear mi propio juego independiente.
-- 🐕 me encantan los animales en especiales los perros grandes
-
-
+- 🐕 me encantan los animales en especiales los perros
+- nice to meet you visitor
  💻 **Lo que estoy aprendiendo:**
 
 | 👨‍💻 **Lenguajes:**| Python, JavaScript |
