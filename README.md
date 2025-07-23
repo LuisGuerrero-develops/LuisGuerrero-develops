@@ -16,10 +16,10 @@
 - nice to meet you visitor
 
 
- 💻 **Lo que estoy aprendiendo:**
+💻 Lo que estoy aprendiendo:
 
-| 👨‍💻 **Lenguajes:**| Python, JavaScript |
-|------------------|--------------------|
-| 🔧 **Herramientas:** | Git, GitHub |
-| 🧠 **Lógica:** | resolución de problemas |
-| ✏️ **Buenas prácticas:** | Código limpio y control de versiones |
+| 👨‍💻 Lenguajes y tecnologías web: | Python, JavaScript, HTML, CSS |
+| 🔧 Herramientas: | Git, GitHub |
+| 🧠 Lógica: | Resolución de problemas |
+| ✏️ Buenas prácticas: | Código limpio y control de versiones |
+| 🌍 Idiomas: | Inglés (en formación) |
